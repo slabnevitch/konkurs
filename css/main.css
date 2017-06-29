@@ -1786,7 +1786,7 @@ section {
     margin: auto;
     -webkit-border-radius: 50%;
             border-radius: 50%; }
-  .header-menu__link:hover, .header-menu__link:active, .header-menu__link:focus {
+  .header-menu__link:hover, .header-menu__link:active {
     text-decoration: none;
     background-color: #fff;
     color: #ff0036;
